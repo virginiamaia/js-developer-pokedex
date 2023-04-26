@@ -2,12 +2,11 @@
 
 ![Lista de Pokemons](./assets/img/pokemon-list.png)
 
-Este é um projeto de Pokedex, que exibe informações sobre vários Pokémons. O objetivo deste projeto é permitir que os usuários pesquisem e visualizem informações úteis sobre as diferentes espécies de Pokémon disponíveis.
+- Projeto de Pokedex, que exibe informações sobre vários Pokémons.
 
 ## Funcionalidades
 
-- Fornece informações atualizadas sobre a lista de Pokémons conforme são selecionados novos Pokémon.
-- Exibe informações detalhadas sobre o Pokémon selecionado, incluindo tipo, habilidades, fraquezas, evoluções, entre outras informações relevantes.
+- Exibe informações detalhadas sobre cada Pokémon selecionado.
 
 ![Informações do Pokemon](./assets/img/pokemon-card.png)
 
@@ -22,11 +21,11 @@ Este projeto foi construído com as seguintes tecnologias:
 
 ## Como Usar
 
-Clone o projeto
+- Clone o projeto:
 
 ```bash
   git clone https://github.com/virginiamaia/js-developer-pokedex.git
 
 ```
 
-Abra o arquivo index.html em seu navegador.
+- Abra o arquivo index.html em seu navegador.
